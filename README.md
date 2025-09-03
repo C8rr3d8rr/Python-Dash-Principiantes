@@ -1,5 +1,11 @@
 # Python-Dash-Principiantes
 
+## Dashboard
+
+<img width="944" height="380" alt="Lineas Barras" src="https://github.com/user-attachments/assets/f55fd402-f30d-4824-a875-dc9750256c82" />
+<img width="916" height="320" alt="Pastel" src="https://github.com/user-attachments/assets/e995f6d1-16b3-4efd-a57c-84ca7d348e00" />
+
+
 ## **Objetivo**
 * Construir un dashboard con python con la biblioteca de Dash.
 
